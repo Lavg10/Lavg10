@@ -40,21 +40,6 @@
 
 ---
 
-## 📚 Featured Projects
-
-### 🔹 **Futsal Booking App**
-- Role-based login (User / Owner / Organizer)  
-- Tournament creation & booking flow  
-- Owner Dashboard with CRUD  
-- Time-slot conflict checking  
-- Supabase + Laravel version  
-
-### 🔹 **Memory Flip Game**
-- Built using Flutter + Provider  
-- Clean UI with animations  
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">

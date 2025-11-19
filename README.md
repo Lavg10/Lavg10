@@ -24,7 +24,7 @@
 ## 🛠 Tech Stack
 
 **Mobile / Frontend**
-- Flutter, Dart (⭐ *Most Used Language*)  
+- Flutter, Dart (⭐ Most Used Language)  
 - Provider, GetX, Riverpod  
 - MVC, Clean Architecture  
 
@@ -43,17 +43,17 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LavGurung&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavGurung&layout=compact&theme=tokyonight&hide=javascript,html,css,python" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lavgurung&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavgurung&layout=compact&theme=tokyonight&hide=javascript,html,css,python" />
 </p>
 
-> ☝️ **Note:** "hide=javascript,html,css,python" le unwanted languages hide garera **Dart sabbai bhanda top ma** dekhauxa.
+**Note:** The stats hide JavaScript, HTML, CSS, and Python so that **Dart always appears at the top**.
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://github.com/LavGurung" target="_blank">
+  <a href="https://github.com/lavgurung" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">

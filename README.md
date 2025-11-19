@@ -49,12 +49,6 @@
 - Time-slot conflict checking  
 - Supabase + Laravel version  
 
-### 🔹 **Supabase Todo App**
-- Login, Register  
-- Pagination  
-- Image upload  
-- Shimmer loading  
-
 ### 🔹 **Memory Flip Game**
 - Built using Flutter + Provider  
 - Clean UI with animations  

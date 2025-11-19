@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-Developer-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Dart-Most%20Used%20Language-0175C2?style=for-the-badge&logo=dart" />
   <img src="https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android" />
 </p>
 
@@ -24,7 +24,7 @@
 ## 🛠 Tech Stack
 
 **Mobile / Frontend**
-- Flutter, Dart  
+- Flutter, Dart (⭐ *Most Used Language*)  
 - Provider, GetX, Riverpod  
 - MVC, Clean Architecture  
 
@@ -44,14 +44,16 @@
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LavGurung&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavGurung&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LavGurung&layout=compact&theme=tokyonight&hide=javascript,html,css,python" />
 </p>
+
+> ☝️ **Note:** "hide=javascript,html,css,python" le unwanted languages hide garera **Dart sabbai bhanda top ma** dekhauxa.
 
 ---
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/LavGurung" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">

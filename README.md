@@ -15,7 +15,7 @@
 - 🎯 Currently working on:
   - Futsal Booking App (Owner, User, Organizer Roles)
   - Supabase Todo App (Auth, Profile, Pagination, Shimmer)
-  - Waste Management App
+  - EMIS
   - Guide Management App  
 - 🌱 Learning: **Laravel API**, **Advanced Flutter UI**, **State Management Patterns**
 

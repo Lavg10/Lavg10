@@ -16,7 +16,7 @@
   - Futsal Booking App (Owner, User, Organizer Roles)
   - Supabase Todo App (Auth, Profile, Pagination, Shimmer)
   - Waste Management App
-  - Fitness Tracker App  
+  - Guide Management App  
 - 🌱 Learning: **Laravel API**, **Advanced Flutter UI**, **State Management Patterns**
 
 ---

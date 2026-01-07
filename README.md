@@ -18,22 +18,6 @@
 
 ---
 
-## 📱 Ongoing & Recent Projects
-- ⚽ **Futsal Booking App**
-  - Roles: Owner, Organizer, User  
-  - Booking, scheduling & role-based access  
-
-- ✅ **Supabase Todo App**
-  - Authentication & profile management  
-  - Pagination, shimmer loading, clean UI  
-
-- 🏫 **EMIS**
-  - Data-driven educational management features  
-
-- 🧭 **Guide Management App**
-  - CRUD operations & API integration  
-
----
 
 ## 🛠 Tech Stack
 

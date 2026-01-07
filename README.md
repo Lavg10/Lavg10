@@ -1,57 +1,73 @@
 <h1 align="center">Hi 👋, I'm Lav Gurung</h1>
-<h3 align="center">Flutter Developer | Mobile App Enthusiast | Clean Architecture Lover</h3>
+<h3 align="center">Flutter Developer | Mobile App Engineer | Clean Architecture Advocate</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Dart-Developer-0175C2?style=for-the-badge&logo=dart" />
-  <img src="https://img.shields.io/badge/Android-Developer-green?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Programming-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Mobile-Application%20Development-3DDC84?style=for-the-badge&logo=android" />
 </p>
 
 ---
 
-## 💫 About Me  
-- 👨‍💻 I'm a **Flutter Developer** passionate about building beautiful and functional mobile applications.  
-- 🔥 I follow **Clean Architecture / MVC / Provider / GetX / REST API / Supabase / Firebase**.  
-- 🎯 Currently working on:
-  - Futsal Booking App (Owner, User, Organizer Roles)
-  - Supabase Todo App (Auth, Profile, Pagination, Shimmer)
-  - EMIS
-  - Guide Management App  
-- 🌱 Learning: **Laravel API**, **Advanced Flutter UI**, **State Management Patterns**
+## 🚀 About Me
+- 👨‍💻 **Flutter Developer** focused on building scalable & maintainable mobile apps  
+- 🧱 Strong believer in **Clean Architecture, MVC & proper state management**  
+- 🔥 Hands-on experience with **REST APIs, Firebase & Supabase**  
+- 🎯 Currently working on real-world projects with multi-role systems  
+- 🌱 Learning **Laravel API**, **Advanced Flutter UI**, and **scalable app patterns**
+
+---
+
+## 📱 Ongoing & Recent Projects
+- ⚽ **Futsal Booking App**
+  - Roles: Owner, Organizer, User  
+  - Booking, scheduling & role-based access  
+
+- ✅ **Supabase Todo App**
+  - Authentication & profile management  
+  - Pagination, shimmer loading, clean UI  
+
+- 🏫 **EMIS**
+  - Data-driven educational management features  
+
+- 🧭 **Guide Management App**
+  - CRUD operations & API integration  
 
 ---
 
 ## 🛠 Tech Stack
 
-**Mobile / Frontend**
+### Mobile / Frontend
 - Flutter, Dart  
 - Provider, GetX, Riverpod  
-- MVC, Clean Architecture  
+- MVC & Clean Architecture  
 
-**Backend**
-- Laravel MVC  
+### Backend / Services
+- Laravel (MVC, REST API)  
 - Supabase  
-- Firebase  
+- Firebase (Auth, Firestore)  
 
-**Tools**
-- Postman  
+### Tools & Workflow
 - Git & GitHub  
+- Postman  
 - Figma  
 
 ---
 
-## 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lavg10&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lavg10&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavg10&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lavg10&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/Lavg10" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
@@ -61,4 +77,4 @@
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ **If you find my work useful, consider giving a star to my repositories!**

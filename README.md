@@ -11,7 +11,7 @@
 
 ## 💫 About Me  
 - 👨‍💻 I'm a **Flutter Developer** passionate about building beautiful and functional mobile applications.  
-- 🔥 I follow **Clean Architecture / MVC / Provider / GetX / REST API / Supabase / Firebase**.  
+- 🔥 I follow **Clean Architecture / MVC /Riverpod / Provider / GetX / REST API / Supabase / Firebase**.  
 - 🎯 Currently working on:
   - Futsal Booking App (Owner, User, Organizer Roles)
   - Supabase Todo App (Auth, Profile, Pagination, Shimmer)
